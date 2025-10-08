@@ -1,4 +1,4 @@
-# CtrlB Frontend Intern Assignment
+# CtrlB Assignment
 
 This is a React-based dashboard that visualizes data using charts
 and tables, and offers smooth interactions like switching chart types and
