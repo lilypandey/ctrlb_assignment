@@ -4,6 +4,8 @@ This is a React-based dashboard that visualizes data using charts
 and tables, and offers smooth interactions like switching chart types and
 adding/deleting rows (single and batch).
 
+[GitHub Repository](https://github.com/lilypandey/ctrlb_assignment)
+
 ---
 
 ## Overview
